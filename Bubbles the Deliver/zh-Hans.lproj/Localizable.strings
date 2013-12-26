@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  Bubbles
+
+  Created by 吴 wuziqi on 12-3-26.
+  Copyright (c) 2012年 BMW Group ConnectedDrive Lab China. All rights reserved.
+*/
+"OK" = "好";
+"ERROR_OCCUR" = "由于接受者取消了接收或者网络状况不太好，您这次传输没有成功。\n\n您可以选择重启Deliver来解决这个问题。";
+"TERMINATE" = "发送者已取消了传输";
+"HAS_DELIVER" = "由于已经有一个正在传输的文件，您这次操作没有成功。\n\n您可以选择重启Deliver来解决这个问题。";
+"SELECT_DELIVER" = "请选择一台设备来进行传送";
+"SORRY" = "对不起";
+"NOT_MULTI" = "对不起，我们目前不支持发送文件夹、 应用程序以及同时发送多个文件。\n我们将在新版本中改善这些，非常感谢您的支持。";
+"CHOOSE_FILE" = "请选择文件";
+"BROWSE" = "浏览";
+"CHOOSE_A_FILE" = "请选择一个文件";
+"OTHER" = "其它";
+"SHOW_IN_FINDER" = "在Finder中打开";
+"DELETE" = "删除";
+"QUICKLOOK" = "快速预览";
+"VERSION" = "版本";
+"Copyright © 2012 Team Ace. All rights reserved." = "Copyright © 2012 Team Ace. 保留一切权利。";
+"LOCAL" = "( 本地 )";
+"kWDBubbleErrorMessageTitle" = "传输失败";
+"kWDBubbleErrorMessageTerminatedBySender" = "发送端中止了传输。";
+"kWDBubbleErrorMessageDisconnectWithError" = "可能是网络情况不佳，也可能是接收端中止了传输。你可以尝试重启信使以解决此问题。";
+"kWDBubbleErrorMessageDoNotSupportMultiple" = "有一个传输正在进行中。信使将在后续版本支持多任务传输，感谢您的支持！";
+"kWDBubbleErrorMessageNoDeviceSelected" = "请选择一个接收端来启动传输任务。";
+
+"kWDBubblePreferenceOther" = "其他...";

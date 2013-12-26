@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  Bubbles
+
+  Created by 王 得希 on 12-3-18.
+  Copyright (c) 2012年 BMW Group ConnectedDrive Lab China. All rights reserved.
+*/
+
+"kActionSheetButtonCopy" = "复制";
+"kActionSheetButtonEmail" = "用电子邮件发送";
+"kActionSheetButtonSend" = "再次传输";
+"kActionSheetButtonMessage" = "用短信发送";
+"kActionSheetButtonPreview" = "预览";
+"kActionSheetButtonSave" = "存储图像";
+"kActionSheetButtonHelpEmail" = "邮件反馈";
+"kActionSheetButtonHelpRate" = "去App Store评分";
+"kActionSheetButtonHelpPDF" = "用户手册";
+"kActionSheetButtonHelpSplash" = "闪屏帮助";
+"kActionSheetButtonMacApp" = "查看Mac上的信使";
+"kActionSheetButtonTransferTerminate" = "中止传输";
+"kActionSheetButtonCancel" = "取消";
+"kActionSheetButtonDeleteAll" = "全部删除";
+
+"kMainViewText" = "文字";
+"kMainViewPeers" = "设备";
+"kMainViewVersion" = "版本";
+"kMainViewLocal" = "（本地）";
+
+"kWDBubbleErrorMessageTitle" = "传输失败";
+"kWDBubbleErrorMessageTerminatedBySender" = "发送端中止了传输。";
+"kWDBubbleErrorMessageDisconnectWithError" = "可能是网络情况不佳，也可能是接收端中止了传输。你可以尝试重启信使以解决此问题。";
+"kWDBubbleErrorMessageDoNotSupportMultiple" = "有一个传输正在进行中。信使将在后续版本支持多任务传输，感谢您的支持！";
+"kWDBubbleErrorMessageNoDeviceSelected" = "请选择一个接收端来启动传输任务。";
+
+"kLockTitle" = "锁定信使";
+"kLockContent" = "请输数字密码：";
+
+"kAlertViewOK" = "好";
+"kAlertViewCancel" = "取消";
+
+"kEmailToDeveloperSubject" = "反馈：Deliver for iOS";
+"kEmailToDeveloperBody" = "关于Deliver for iOS我有一些话要说。\n\n建议：\n一、\n二、\n三、\n\nBug：\n一、\n二、\n三、";

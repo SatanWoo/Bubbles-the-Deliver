@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  Bubbles
+
+  Created by 王 得希 on 12-3-18.
+  Copyright (c) 2012年 BMW Group ConnectedDrive Lab China. All rights reserved.
+*/
+
+"kActionSheetButtonCopy" = "Copy";
+"kActionSheetButtonEmail" = "Email";
+"kActionSheetButtonSend" = "Resend";
+"kActionSheetButtonMessage" = "Message";
+"kActionSheetButtonPreview" = "Preview";
+"kActionSheetButtonSave" = "Save to Gallery";
+"kActionSheetButtonHelpEmail" = "Send Email Feedback";
+"kActionSheetButtonHelpRate" = "Rate in App Store";
+"kActionSheetButtonHelpPDF" = "Manual";
+"kActionSheetButtonHelpSplash" = "Splash Screen";
+"kActionSheetButtonMacApp" = "View Deliver for Mac";
+"kActionSheetButtonTransferTerminate" = "Terminate";
+"kActionSheetButtonCancel" = "Cancel";
+"kActionSheetButtonDeleteAll" = "Delete All";
+
+"kMainViewText" = "Text";
+"kMainViewPeers" = "Peers";
+"kMainViewVersion" = "Version";
+"kMainViewLocal" = " (local)";
+
+"kWDBubbleErrorMessageTitle" = "Deliver Failed";
+"kWDBubbleErrorMessageTerminatedBySender" = "Delivery is terminated by sender.";
+"kWDBubbleErrorMessageDisconnectWithError" = "Either delivery is terminated by receiver or the network condition is bad.\n\nYou may fix this problem by restarting Deliver.";
+"kWDBubbleErrorMessageDoNotSupportMultiple" = "There is already a delivery ongoing, multiple deliveries will be supported in the future.\n\nYou may fix this problem by restarting Deliver.";
+"kWDBubbleErrorMessageNoDeviceSelected" = "Please select a device to deliver.";
+
+"kLockTitle" = "Lock";
+"kLockContent" = "Please input password (only numbers allowed):";
+
+"kAlertViewOK" = "OK";
+"kAlertViewCancel" = "Cancel";
+
+"kEmailToDeveloperSubject" = "Feedback of Deliver for iOS";
+"kEmailToDeveloperBody" = "I have something to say about Deliver for iOS.\n\nSuggestions:\n1. \n2. \n 3. \n\nBugs:\n1. \n2. \n 3. ";

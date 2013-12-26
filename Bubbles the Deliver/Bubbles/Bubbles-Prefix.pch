@@ -1,0 +1,22 @@
+//
+// Prefix header for all source files of the 'LearnBonjour' target in the 'LearnBonjour' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+// DW: We use DLog and ALog, not NSLog.
+#ifdef DEBUG
+#   define DLog(...) NSLog(__VA_ARGS__)
+#else
+#   define DLog(...) /* */
+#endif
+#define ALog(...) NSLog(__VA_ARGS__)

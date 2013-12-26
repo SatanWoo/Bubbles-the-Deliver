@@ -1,0 +1,15 @@
+//
+// Prefix header for all source files of the 'BubblesOnMac' target in the 'BubblesOnMac' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
+
+// DW: We use DLog and ALog, not NSLog.
+#ifdef DEBUG
+#   define DLog(...) NSLog(__VA_ARGS__)
+#else
+#   define DLog(...) /* */
+#endif
+#define ALog(...) NSLog(__VA_ARGS__)

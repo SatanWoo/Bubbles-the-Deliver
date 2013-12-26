@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  Bubbles
+
+  Created by 吴 wuziqi on 12-3-26.
+  Copyright (c) 2012年 BMW Group ConnectedDrive Lab China. All rights reserved.
+*/
+"OK" = "Ok";
+"ERROR_OCCUR" = "Either delivery is terminated by receiver or the network condition is bad.\n\nYou may fix this problem by restarting Deliver.";
+"TERMINATE" = "Delivery is terminated by sender";
+"HAS_DELIVER" = "There is already a delivery ongoing, multiple deliveries will be supported in the future.\n\nYou may fix this problem by restarting Deliver.";
+"SELECT_DELIVER" = "Please select a device to deliver.";
+"SORRY" = "Sorry";
+"NOT_MULTI" = "We do not support folders, application package or multiple files for now.\nWe will improve this in the new version, many thanks for your support.";
+"CHOOSE_FILE" = "Choose File";
+"BROWSE" = "Browse";
+"CHOOSE_A_FILE" = "Choose a file";
+"OTHER" = "Other";
+"SHOW_IN_FINDER" = "Show in Finder";
+"DELETE" = "Delete";
+"QUICKLOOK" = "Quicklook";
+"VERSION" = "Version";
+"Copyright © 2012 Team Ace. All rights reserved." = "Copyright © 2012 Team Ace. All rights reserved.";
+"LOCAL" = " (local)";
+
+"kWDBubbleErrorMessageTitle" = "Deliver Failed";
+"kWDBubbleErrorMessageTerminatedBySender" = "Delivery is terminated by sender.";
+"kWDBubbleErrorMessageDisconnectWithError" = "Either delivery is terminated by receiver or the network condition is bad.\n\nYou may fix this problem by restarting Deliver.";
+"kWDBubbleErrorMessageDoNotSupportMultiple" = "There is already a delivery ongoing, multiple deliveries will be supported in the future.\n\nYou may fix this problem by restarting Deliver.";
+"kWDBubbleErrorMessageNoDeviceSelected" = "Please select a device to deliver.";
+
+"kWDBubblePreferenceOther" = "Other...";
