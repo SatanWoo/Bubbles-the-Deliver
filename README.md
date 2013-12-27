@@ -29,3 +29,8 @@ Mac OS X 10.7 or higher
 
 ★ Requirements ★ 
 Author : Dexi Wang(iOS) and me(Mac OS)
+
+## Some blogs written by the users of Deliver
+http://www.addictivetips.com/mac-os/deliver-transfer-files-between-mac-and-ios-devices-over-wi-fi/
+
+http://www.soft-zilla.com/2012/08/how-to-transfer-file-between-iphone-and.html
