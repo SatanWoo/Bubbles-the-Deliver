@@ -34,3 +34,5 @@ Author : Dexi Wang(iOS) and me(Mac OS)
 http://www.addictivetips.com/mac-os/deliver-transfer-files-between-mac-and-ios-devices-over-wi-fi/
 
 http://www.soft-zilla.com/2012/08/how-to-transfer-file-between-iphone-and.html
+
+http://lifehacker.com/5894546/deliver-shares-messages-and-files-between-your-macs-and-iphones-or-other-idevices-almost-instantly
