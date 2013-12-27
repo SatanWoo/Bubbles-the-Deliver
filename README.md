@@ -5,11 +5,7 @@ Bubbles-the-Deliver
 Deliver is a utility you really should install. With Deliver you can transfer and share your contents extremely easy between your iOS and Mac OS devices. 
 
 ★ Deliver for iOS ★ 
-
-Find "Bubbles the Deliver" in the iOS App Store: 
-http://itunes.apple.com/us/app/bubbles-the-deliver/id506646552?ls=1&mt=8 
-
-Unfortunately ,due to name conflict ,I have removed Bubbles the Deliver from App Store.
+Unfortunately, due to name conflict ,I have removed Bubbles the Deliver from App Store.
 But you can still download Deliver for Mac:https://itunes.apple.com/au/app/deliver/id506655546?mt=12
 
 ★ Features ★ 
@@ -30,3 +26,6 @@ But you can still download Deliver for Mac:https://itunes.apple.com/au/app/deliv
 ★ Requirements ★ 
 iPhone, iPad and iPod touch running iOS 5.0 or higher 
 Mac OS X 10.7 or higher
+
+★ Requirements ★ 
+Author : Dexi Wang(iOS) and me(Mac OS)
